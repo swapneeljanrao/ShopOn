@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "996180291938",
+    "firebase_url": "https://shop-on-2106.firebaseio.com",
+    "project_id": "shop-on-2106",
+    "storage_bucket": "shop-on-2106.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996180291938:android:de45c2fd8708d3f0",
+        "android_client_info": {
+          "package_name": "com.smartbit.shopon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996180291938-jrnobpebogr79kit92ee6mi5b9asp5ls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzcGpAd_DwogGdeaMKCHEAlXn6cwFPU6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996180291938-jrnobpebogr79kit92ee6mi5b9asp5ls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
